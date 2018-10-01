@@ -5,4 +5,5 @@ public class GitSample {
 	// add JunitSample2-2
     // add JUnitSample
 	// add JUnitSample2-3
+	// add JunitSample-2
 }
